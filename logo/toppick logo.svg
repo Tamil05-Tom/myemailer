@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="281.164" height="243.186" viewBox="0 0 281.164 243.186">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.842" y1="0.14" x2="0.12" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc134"/>
+      <stop offset="1" stop-color="#ffe600"/>
+    </linearGradient>
+    <filter id="Path_39366" x="5.836" y="0" width="275.328" height="243.186" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="TOP_PICKS._TOP_FLICKS." x="66" y="108.593" width="175" height="95" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_39366)">
+    <path id="Path_39366-2" data-name="Path 39366" d="M6604.727,4430.127c-30.4-20.094-49.785-50.52-49.785-84.574,0-60.507,61.186-109.557,136.665-109.557s136.664,49.05,136.664,109.557-61.187,109.557-136.664,109.557a167.049,167.049,0,0,1-46.4-6.476s-27.02,24.547-60.9,24.547C6584.308,4473.182,6619.9,4441.831,6604.727,4430.127Z" transform="translate(-6548.11 -4235)" stroke="#fd5082" stroke-miterlimit="10" stroke-width="2" fill="url(#linear-gradient)"/>
+  </g>
+  <g id="Ellipse_2476" data-name="Ellipse 2476" transform="translate(0 137.593)" fill="#fd5082" stroke="#fff" stroke-width="3">
+    <circle cx="15.5" cy="15.5" r="15.5" stroke="none"/>
+    <circle cx="15.5" cy="15.5" r="14" fill="none"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#TOP_PICKS._TOP_FLICKS.)">
+    <text id="TOP_PICKS._TOP_FLICKS.-2" data-name="TOP PICKS. TOP FLICKS." transform="translate(66 108.59)" fill="#290a64" font-size="36" font-family="PlayfairDisplay-Bold, Playfair Display" font-weight="700" letter-spacing="-0.05em"><tspan x="0" y="39">TOP </tspan><tspan x="0" y="74">PICKS. </tspan></text>
+  </g>
+</svg>
